@@ -4,3 +4,7 @@ Lading website based on React
 ```
   npm install
 ```
+
+```
+  npm start
+```

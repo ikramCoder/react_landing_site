@@ -13,6 +13,8 @@ import './assets/fonts/Montserrat/css/montserrat-webfont.min.css';
 import './assets/fonts/roboto/roboto.css';
 import './assets/fonts/montserrat-extrabold/style.css';
 
+
+
 const target = document.querySelector('#root');
 
 render(
